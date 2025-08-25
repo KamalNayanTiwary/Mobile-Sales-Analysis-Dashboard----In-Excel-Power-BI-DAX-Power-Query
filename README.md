@@ -19,7 +19,7 @@ Smartphone retail is competitive and fast-moving. Teams need a single source of 
 ---
 
 ## 📂 Dataset Used  
-- [Dataset (Private)](#)
+- [Dataset](https://github.com/KamalNayanTiwary/Mobile-Sales-Analytics-Dashboard/blob/main/Mobile%20Sales%20Data.xlsx)
 
 ---
 
