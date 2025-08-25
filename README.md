@@ -45,7 +45,7 @@ Smartphone retail is competitive and fast-moving. Teams need a single source of 
 
 ## 📊 Dashboard
 
-![Overview](Overview.png)
+![Overview](https://github.com/KamalNayanTiwary/Mobile-Sales-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
 ---
 
