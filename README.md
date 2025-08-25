@@ -78,12 +78,6 @@ Smartphone retail is competitive and fast-moving. Teams need a single source of 
 
 ---
 
-## 🔗 Live Mobile Sales Dashboard  
-Interactive Power BI dashboard to analyze and visualize mobile sales.  
-**Live Link:** [View Dashboard](#)
-
----
-
 ## 👨‍💻 Author & Contact  
 **Kamal Nayan Tiwary**  
 **Data Analyst**
