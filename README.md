@@ -7,6 +7,12 @@ The dashboard enables stakeholders to track **KPIs**, analyze performance by **b
 
 ---
 
+## 📊 Live Business Insights Dashboard
+I created an interactive **Power BI dashboard** to analyze and visualize business insights.  
+🔗 You can explore it live here: [View Dashboard](https://app.powerbi.com/groups/me/reports/4235ef8a-7402-43d4-95c1-9091f412e541/0b7c1b1ee72a2daa491b?experience=power-bi)
+
+---
+
 ## 🚨 Business Problem  
 Smartphone retail is competitive and fast-moving. Teams need a single source of truth to:  
 - Monitor **Total_Sales (₹769M)**, **Total Quantity (19K)**, **Transactions (4K)**, and **Average (40K)**  
@@ -75,12 +81,6 @@ Smartphone retail is competitive and fast-moving. Teams need a single source of 
 - **Payment strategy:** Since methods are balanced, run **A/B offers** across UPI/Debit/Credit/Cash to find ROI-positive incentives.  
 - **Quality focus:** Maintain high standards and service to keep **4–5★ dominance**; address 1–2★ feedback loops.  
 - **City targeting:** Sustain metros while scaling in high-potential Tier-2 cities highlighted on the map.
-
----
-
-## 📊 Live Business Insights Dashboard
-I created an interactive **Power BI dashboard** to analyze and visualize business insights.  
-🔗 You can explore it live here: [View Dashboard](https://app.powerbi.com/groups/me/reports/4235ef8a-7402-43d4-95c1-9091f412e541/0b7c1b1ee72a2daa491b?experience=power-bi)
 
 ---
 
