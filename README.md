@@ -1,6 +1,6 @@
 # Mobile Sales Analysis Dashboard
 
-## 📌 Project Objective  
+## 📌 Project Objective   
 To design and develop an **Interactive Mobile Sales Analytics Dashboard** in **Power BI** that delivers real-time insights into total sales, quantities, transactions, customer ratings, and payment behavior across brands, models, cities, and time.
 
 The dashboard enables stakeholders to track **KPIs**, analyze performance by **brand/model/city/month/day**, understand **customer sentiment**, and make **data-driven decisions** for inventory, marketing, and channel optimization.
